@@ -1,0 +1,14 @@
+# Frontend
+node_modules/
+build/
+
+
+# Env files
+.env
+
+
+# Logs
+npm-debug.log*
+
+# Local Netlify folder
+.netlify
